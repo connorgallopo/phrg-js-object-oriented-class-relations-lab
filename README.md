@@ -29,4 +29,8 @@ Construct the following classes:
   + `new Trip()` - initialized with an instance of driver and an instance of passenger; returns a JavaScript that has attributes `id`, `driverId`, and `passengerId`
   + `driver()` - returns the driver associated with the trip
   + `passenger()` - returns the passenger associated with the trip
+  
+  ## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-object-oriented-class-relations-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-object-oriented-class-relations-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
 <p data-visibility='hidden'>PHRG Class Relations Lab</p>
